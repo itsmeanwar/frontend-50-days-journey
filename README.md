@@ -58,6 +58,12 @@ day-50-fullstack-ui/
 - JavaScript string & array logic practice
 - Git workflow setup (init → commit → push)
 
+### Day 2
+- Counter Application (Increment, Decrement, Reset)
+- Functions (Normal vs Arrow) understanding
+- React event handling & state update flow
+- Basic validation logic (prevent negative values)
+
 ---
 
 ## 🎯 Goal
