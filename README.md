@@ -1,6 +1,6 @@
 # 🚀 Frontend Development Journey (50 Days)
 
-This repository contains a structured frontend development build series focused on real-world UI features, reusable components, and production-style React development.
+This repository showcases a structured collection of frontend application features focused on real-world UI patterns, reusable components, and production-level React development.
 
 Each day includes:
 - Feature-based UI development
@@ -28,10 +28,15 @@ day-50-fullstack-ui/
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js (Hooks, Functional Components)
 - React Router
-- State Management (useState, useEffect)
-- Tailwind CSS (later stages)
-- TypeScript (later stages)
-- Git & GitHub (daily commits)
+- State Management (useState, useEffect, Context API)
+- Tailwind CSS (UI styling)
+- TypeScript (type-safe development)
+- TanStack Query (data fetching & caching)
+- REST API integration & data handling
+- Next.js (full-stack React framework)
+- Jest & React Testing Library (testing)
+- Generative AI APIs (OpenAI, Gemini – later stages)
+- Git & GitHub (version control)
 
 ---
 
@@ -57,7 +62,7 @@ day-50-fullstack-ui/
 
 ## 🎯 Goal
 
-To become a job-ready frontend developer by building real-world features daily with consistent coding practice and project-based learning.
+To design and build scalable, production-ready frontend applications using modern technologies like React, Next.js, TypeScript, and AI integrations, following industry-level development practices.
 
 ---
 
@@ -65,5 +70,3 @@ To become a job-ready frontend developer by building real-world features daily w
 
 Frontend Developer | React.js | JavaScript | UI Engineering
 
-
-need to change?
